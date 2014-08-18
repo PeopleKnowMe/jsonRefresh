@@ -1,0 +1,18 @@
+[
+    {
+        "name" : "Egg Benedict",
+        "time" : "30 min",
+        "image" : "egg_benedict",
+        "ingredients" : [
+            "2 fresh English muffins", "4 eggs", "4 rashers of back bacon", "2 egg yolks", "1 tbsp of lemon juice", "125 g of butter", "salt and pepper"
+        ]
+    },
+    {
+        "name" : "Mushroom Risotto",
+        "time" : "30 min",
+        "image" : "mushroom_risotto",
+        "ingredients" : [
+            "1 tbsp dried porcini mushrooms", "2 tbsp olive oil", "1 onion, chopped", "2 garlic cloves", "350g/12oz arborio rice", "1.2 litres/2 pints hot vegetable stock", "salt and pepper", "25g/1oz butter"
+        ]
+    },
+]
