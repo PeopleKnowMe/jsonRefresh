@@ -13,28 +13,28 @@
         "name" : "Kavya Gundavaram",
         "location" : "Starbucks",
         "image" : "starbucks",
-        "date" : "09/25/14",
-        "time" : "0230",
+        "date" : "09/24/14",
+        "time" : "0830",
         "incentives" : [
             "15% off Caramel Mocha Frappucino", "Free cake pop with purchase of venti Shaken Iced Tea"
         ]
     },
     {
         "name" : "Kavya Gundavaram",
-        "location" : "Starbucks",
+        "location" : "Legends",
         "image" : "starbucks",
-        "date" : "09/25/14",
-        "time" : "0230",
+        "date" : "09/30/14",
+        "time" : "2245",
         "incentives" : [
             "15% off Caramel Mocha Frappucino", "Free cake pop with purchase of venti Shaken Iced Tea"
         ]
     },
     {
         "name" : "Kavya Gundavaram",
-        "location" : "Starbucks",
+        "location" : "Flat Top",
         "image" : "starbucks",
-        "date" : "09/25/14",
-        "time" : "0230",
+        "date" : "10/28/14",
+        "time" : "1930",
         "incentives" : [
             "15% off Caramel Mocha Frappucino", "Free cake pop with purchase of venti Shaken Iced Tea"
         ]
