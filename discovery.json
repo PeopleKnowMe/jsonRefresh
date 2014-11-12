@@ -1,0 +1,16 @@
+[
+    {
+        "location" : "Murphy's Pub",
+        "image" : "murphys",
+        "lat" : "38.7749",
+        "lon" : "-123.41",
+        ]
+    },
+        {
+        "location" : "Starbuck's",
+        "image" : "starbucks",
+        "lat" : "37.8309",
+        "lon" : "-121.41",
+        ]
+    },
+ ]
