@@ -3,14 +3,14 @@
         "name" : "Murphy's Pub",
         "image" : "murphys",
         "lat" : "37.55",
-        "lon" : "-122.01",
+        "lon" : "-122.01"
         
     },
     {
         "name" : "Starbucks",
         "image" : "starbucks",
         "lat" : "37.99",
-        "lon" : "-122.77",
+        "lon" : "-122.77"
         
     },
 ]
