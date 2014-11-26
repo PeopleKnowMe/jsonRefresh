@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Allen Kleiner",
+        "age" : "19",
+        "meetup" : "Cubs vs Bears @ Wrigley",
+        "image" : "allen"
+    },
+    {
+        "name" : "Lisa Vuong",
+        "age" : "20",
+        "meetup" : "Giraffage Concert",
+        "image" : "lisa"
+    },
+]
