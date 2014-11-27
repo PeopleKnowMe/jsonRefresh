@@ -3,12 +3,12 @@
         "name" : "Allen Kleiner",
         "age" : "19",
         "meetup" : "Cubs vs Bears @ Wrigley",
-        "image" : "allen"
+        "url"   : "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/2000px-Apple_Computer_Logo_rainbow.svg.png"
     },
     {
         "name" : "Lisa Vuong",
         "age" : "20",
         "meetup" : "Giraffage Concert",
-        "image" : "lisa"
+        "url"   :  "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/2000px-Apple_Computer_Logo_rainbow.svg.png"
     },
 ]
